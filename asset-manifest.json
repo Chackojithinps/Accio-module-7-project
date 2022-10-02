@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Accio-module-7-project/static/css/main.8f2c730e.css",
+    "main.js": "/Accio-module-7-project/static/js/main.0dfe9e60.js",
+    "static/js/787.4fb5f8c8.chunk.js": "/Accio-module-7-project/static/js/787.4fb5f8c8.chunk.js",
+    "static/media/col-md-6.png": "/Accio-module-7-project/static/media/col-md-6.de1f2d5d4d3aa49c2718.png",
+    "index.html": "/Accio-module-7-project/index.html",
+    "main.8f2c730e.css.map": "/Accio-module-7-project/static/css/main.8f2c730e.css.map",
+    "main.0dfe9e60.js.map": "/Accio-module-7-project/static/js/main.0dfe9e60.js.map",
+    "787.4fb5f8c8.chunk.js.map": "/Accio-module-7-project/static/js/787.4fb5f8c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f2c730e.css",
+    "static/js/main.0dfe9e60.js"
+  ]
+}
