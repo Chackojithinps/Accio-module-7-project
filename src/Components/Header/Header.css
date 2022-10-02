@@ -1,0 +1,122 @@
+
+.headerContainer {
+    display: flex;
+    width: 100%;
+    height: 68px;
+    /* background: lightblue; */
+    /* padding: 0; */
+    /* margin: 0; */
+    align-items: center;
+}
+.header-rightsection {
+    display: flex;
+    /* align-items: end; */
+    /* justify-content: end; */
+    /* justify-content: flex-end; */
+}
+
+.headerCaption {
+    /* position: absolute; */
+    /* top: 13px; */
+    /* left: 0px; */
+    /* font-family: 'Montserrat'; */
+    margin-left: 33px;
+}
+
+
+h3.headerTitle {
+    /* position: absolute; */
+    width: 116px;
+    height: 32px;
+    /* left: 0px; */
+    /* top: 13px; */
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+    color: #252B42;
+}
+svg.userIcon1 {
+    width: 21px;
+    height: 16px;
+    margin-top: -3px;
+}
+
+svg.searchIcon {
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+}
+
+svg.cartIcon {
+    height: 20px;
+    width: 20px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+
+svg.addIcon {
+    height: 20px;
+    width: 20px;
+    margin-left: 30px;
+    cursor: pointer;
+}
+.headerItems {
+    margin-left: 68px;
+    /* gap: 17px; */
+    /* position: absolute; */
+    /* left: 156px; */
+    gap: 17px;
+    /* padding: 10px; */
+}
+
+a.headerItem {
+    margin-left: 17px;
+    /* font-family: ''; */
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #737373;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.header-rightsection {
+    position: absolute;
+    right: 77px;
+    /* gap: 1rem; */
+    color: #23A6F0;
+
+}
+.userIcon {
+    margin-top: 4px;
+    cursor: pointer;
+}
+
+.header-icons {
+    margin-left: 12px;
+    
+}
+
+.login-section {
+    width: 119px;
+    height: 24px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+    margin-top: -1px;
+    cursor: pointer;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
